@@ -10,7 +10,7 @@ function Navbar() {
                 <li><a href="#">Contact</a></li>
             </ul>
         </nav>
-    );
+    )
 }
 
 export default Navbar;
